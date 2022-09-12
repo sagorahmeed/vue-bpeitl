@@ -1,14 +1,11 @@
 <template>
   <div id="app">
-    <h1>Hey This  is my first app</h1>
+    <h1>Hey This is my first app</h1>
   </div>
 </template>
 
 <script>
-
-export default {
-  
-}
+export default {};
 </script>
 
 <style>
